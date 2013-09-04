@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">关机工具(cslilong@gmail.com)</string>
+    <string name="app_name">关机工具</string>
+    
+    <string name="sendbtn">关机</string>
+    <string name="getipbtn">获得IP</string>
+</resources>
